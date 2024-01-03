@@ -29,7 +29,7 @@ int main()
      Creating a string variable God_name for storing the name of the user's Justice*/
     string your_name, friend_name, God_name;
 
-    int value = SecretNumber / 2;
+    float value = SecretNumber / 2;
     cout << "Welcome to the program\n Please enter your name below\n>";
 
     //Using getline function you can store the full name without using '_' for ex:- 'Harsh Vardhan'
